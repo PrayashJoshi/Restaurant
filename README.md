@@ -28,8 +28,8 @@ There are no known bugs. The pay now functionality is not implemented in this ve
 
 ## Built With
 
-* HTML
 * REACT
+* HTML
 * CSS
 * BOOTSTRAP
 * jQUERY
