@@ -34,4 +34,3 @@ There are no known bugs. The pay now functionality is not implemented in this ve
 * BOOTSTRAP
 * jQUERY
 
-### License
