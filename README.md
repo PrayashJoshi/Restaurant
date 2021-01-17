@@ -17,9 +17,9 @@ The website is a prototype ready for GMU's Hackathon. It will have more iteratio
 ## Setup/Installation Requirements
 
 To view the website, 
-* click [Prayash's Website](http://bit.ly/reactrestaurantapp)
+* click [Prayash's Website](http://bit.ly/reactrestaurant)
 or 
-* copy the link http://bit.ly/reactrestaurantapp paste it to your browser and load it.  
+* copy the link http://bit.ly/reactrestaurant paste it to your browser and load it.  
 
 
 ## Known Bugs
